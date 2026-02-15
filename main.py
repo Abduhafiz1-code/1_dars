@@ -21,7 +21,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import Message
 
 # Bot token can be obtained via https://t.me/BotFather
-TOKEN = "8555467956:AAGHMCC_3vJ8PqdFNn1tadO4YgOc-FO0hRw"
+TOKEN = "*********"
 
 # All handlers should be attached to the Rout           er (or Dispatcher)
 
